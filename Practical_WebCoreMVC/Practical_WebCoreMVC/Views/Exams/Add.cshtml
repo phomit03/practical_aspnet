@@ -1,0 +1,34 @@
+﻿@model Practical_WebCoreMVC.Models.Domain.Exam
+
+@{
+}
+<h1>Add New Exam</h1>
+
+<form method="post" action="Add">
+  <div class="mb-3">
+    <label for="" class="form-label">Subject</label>
+    <input type="text" class="form-control" placeholder="Enter Subject" asp-for="Subject">
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Start Time</label>
+    <input type="time" class="form-control" placeholder="Enter Start Time" asp-for="StartTime">
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Exam Date</label>
+    <input type="date" class="form-control" placeholder="Enter Exam Date" asp-for="ExamDate">
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Exam Duration (in minutes)</label>
+    <input type="number" class="form-control" placeholder="Enter Exam Duration" asp-for="ExamDuration">
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Classroom</label>
+    <input type="text" class="form-control" placeholder="Enter Classroom" asp-for="Classroom">
+  </div>
+  <div class="mb-3">
+    <label for="" class="form-label">Faculty</label>
+    <input type="text" class="form-control" placeholder="Enter Faculty" asp-for="Faculty">
+  </div>
+
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>

@@ -1,0 +1,36 @@
+﻿@model List<Practical_WebCoreMVC.Models.Domain.Exam>
+@{
+}
+
+<h1>List Exams</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Subject</th>
+            <th>Start Time</th>
+            <th>Exam Date</th>
+            <th>Exam Duration</th>
+            <th>Classroom</th>
+            <th>Faculty</th>
+            <th>Status</th>
+        </tr> 
+    </thead>
+
+    <tbody>
+     @foreach (var exam in Model)
+     {
+         <tr>
+            <td>@exam.Id</td>
+            <td>@exam.Subject</td> 
+            <td>@exam.StartTime</td>
+            <td>@exam.ExamDate.ToString("dd-MM-yyyy")</td> 
+            <td>@exam.ExamDuration</td>
+            <td>@exam.Classroom</td>
+            <td>@exam.Faculty</td>
+            <td>@exam.Status</td>
+        </tr>
+     }
+    </tbody>
+</table>
