@@ -3306,11 +3306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\assignment02\\WebCore_CRUD_Login\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\Practical_WebCoreMVC.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\Practical_WebCoreMVC.csproj",
       "projectName": "Practical_WebCoreMVC",
-      "projectPath": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\assignment02\\WebCore_CRUD_Login\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\Practical_WebCoreMVC.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\Practical_WebCoreMVC.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\assignment02\\WebCore_CRUD_Login\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

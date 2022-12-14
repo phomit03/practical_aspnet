@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yeo/u8D71EFuskl2mmtqxOZgtQsDJt2kRqQV3H3oEjUlGyRgbwVWWNLOf1DpRrbtWwXnyh0+3RkNht9AI4Gwcw==",
+  "dgSpecHash": "18jypotGl1hFd1XjbrRKuW2MB/IJeoGnx+oTdioUWQBji1D5JH0MBSt/J5hnkhgtX5TqLDfsc5bh8Ay9QfjQBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\assignment02\\WebCore_CRUD_Login\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\Practical_WebCoreMVC.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Project\\FPTAptech-SEM3\\dotnet\\Practical_WebCoreMVC\\Practical_WebCoreMVC\\Practical_WebCoreMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -5,10 +5,11 @@
         public string Subject { get; set; }
         public string StartTime { get; set; }
         public DateTime ExamDate { get; set; }
-        public string ExamDuration { get; set; }
+        public int ExamDuration { get; set; }
         public string Classroom { get; set; }
         public string Faculty { get; set; }
         public string? Status { get; set; }
+
 
         public AddExamViewModel()
         {
